@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav {
+    height: 100px;
+    background-color: lightgrey;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.space {
+    height: 100px;
+}
+ .hero {
+    height: 200px;
+    background-color: grey;
+ }
+
+ .about-me {
+     height: 500px;
+     background-color: darkgray;
+ }
+
+ .my-skills-container {
+     height: 200px;
+     background-color: whitesmoke;
+ }
+
+ .projects-container {
+     height: 1000px;
+     background-color: grey;
+ }
+
+ footer {
+     height: 100px;
+     width: 100%;
+     position: fixed;
+     bottom: 0;
+     background-color: #fff;
+ }
